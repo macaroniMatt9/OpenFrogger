@@ -1,0 +1,54 @@
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\Frogger.exe
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\Frogger.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+c:\users\matt\documents\visual studio 2015\Projects\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+D:\MonoGame Projects\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+D:\MonoGame Projects\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Frogger.exe
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Frogger.pdb
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\MonoGame Projects\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerUp.png
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerDown.png
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerLeft.png
+D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerRight.png
