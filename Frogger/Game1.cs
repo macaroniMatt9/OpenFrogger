@@ -39,7 +39,7 @@ namespace Frogger
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             basicTexture = new Texture2D(GraphicsDevice, 1, 1);
-            basicTexture.SetData(new[] { Color.White });
+            basicTexture.SetData(new[] { Color.DarkMagenta });
 
             start = new StartWindow(this, spriteBatch, basicTexture);
             Components.Add(start);

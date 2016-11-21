@@ -23,7 +23,7 @@ namespace Frogger
         {
             c = Color.White;
             speed = 5;
-            bb = new Rectangle(400, 400, 25, 25);
+            bb = new Rectangle(400, 500, 25, 25);
             gm = g;
             frogTex = gm.Content.Load<Texture2D>("froggerUp");
 
@@ -86,6 +86,7 @@ namespace Frogger
         public void Draw(SpriteBatch sb)
         {
             sb.Draw(frogTex, bb, c);
+            
         }
     }
 }

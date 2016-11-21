@@ -52,3 +52,34 @@ D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerUp.png
 D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerDown.png
 D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerLeft.png
 D:\MonoGame Projects\Frogger\Frogger\bin\Windows\x86\Debug\Content\froggerRight.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\obj\x86\Debug\Frogger.pdb
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\froggerDown.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\froggerLeft.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\froggerRight.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\froggerUp.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Frogger.exe
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Frogger.pdb
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\car right.png
+C:\Users\markc_000\Desktop\OpenFrogger-master\Frogger\bin\Windows\x86\Debug\Content\Frogger mapv0.3.png
